@@ -73,7 +73,7 @@
         "packageManager": "npm"
     },
     "engines": {
-        "npm": "5.6.0",
-        "node": "8.10.0"
+        "node": "12.13.0",
+        "npm": "6.12.0"
     }
 }
